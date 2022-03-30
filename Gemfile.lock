@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/pludoni/simple-captcha.git
-  revision: 0d6341f7ab92ca3f8b0648139d41ee9763ba6e56
+  remote: https://github.com/pludoni/simple-captcha.git
+  revision: 086a32020db6116402ab6c24ad26a438b86706ce
   specs:
-    simple_captcha (0.4.3)
+    simple_captcha (0.5.0)
       rails (>= 3.1)
 
 GEM
@@ -158,7 +158,7 @@ GEM
     nori (2.6.0)
     orm_adapter (0.5.0)
     public_suffix (4.0.6)
-    puma (5.6.2)
+    puma (5.6.4)
       nio4r (~> 2.0)
     racc (1.6.0)
     rack (2.2.3)
